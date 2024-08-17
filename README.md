@@ -1,4 +1,3 @@
-Copy code
 # Jenish Ghadiya - Full-Stack Developer
 
 Welcome to my GitHub repository! I'm Jenish Ghadiya, a passionate and dedicated full-stack developer with a strong focus on building efficient, scalable, and user-friendly applications.
