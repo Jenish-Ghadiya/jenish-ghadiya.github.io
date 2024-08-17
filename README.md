@@ -10,5 +10,5 @@ I have experience in developing both frontend and backend components of web appl
 ## Contact Me
 If you'd like to connect or collaborate, feel free to reach out:
 - **Email**: jenishghadiya35@gmail.com
-- **LinkedIn**: https://www.linkedin.com/in/jenish-ghadiya/
+- **LinkedIn**: [https://www.linkedin.com/in/jenish-ghadiya/]
 Thank you for visiting my GitHub repository!
