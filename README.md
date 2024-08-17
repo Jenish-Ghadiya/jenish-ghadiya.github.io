@@ -3,12 +3,12 @@ Welcome to my GitHub repository! I'm Jenish Ghadiya, a passionate and dedicated 
 ## About Me
 I have experience in developing both frontend and backend components of web applications. My expertise includes:
 - **Frontend Development**: HTML, CSS, JavaScript, React
+- 
 - **Backend Development**: Node.js, Express.js
 - **Database Management**: MongoDB
 - **Version Control**: Git, GitHub
--
 ## Contact Me
 If you'd like to connect or collaborate, feel free to reach out:
 - **Email**: jenishghadiya35@gmail.com
-- **LinkedIn**: [linkedin.com/in/jenish-ghadiya](www.linkedin.com/in/jenish-ghadiya)
+- **LinkedIn**: https://www.linkedin.com/in/jenish-ghadiya/
 Thank you for visiting my GitHub repository!
